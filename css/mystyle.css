@@ -1,0 +1,213 @@
+.mountains{
+    position: relative;
+    object-fit: none;
+    width: 50%;
+    height: 800px;
+    padding: 0px;
+}
+.navbar{
+    position: fixed;
+    z-index: 4;
+}
+.nvbr{
+    background-color: #2D1611;
+    padding: 6px;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+.nav-link:hover{
+    color: #ffffff;
+}
+.navbar-brand{
+    padding: 6px;
+}
+.navbar-brand:hover{
+    color: #ffffff;
+}
+body{
+    background-color: #ffefdf;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.navtext{
+    color: #e3dce1;
+}
+.navrow{
+    background-color: #2D1611;
+}
+.intro{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+#circle{
+  position: relative;
+  border-radius:50% 50% 50% 50%;  
+  width: 250px;
+  height: 250px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  object-fit: cover;
+  border: 3px solid white;
+  background-image: url("https://thumbs.dreamstime.com/b/white-abstract-background-slanting-pattern-texture-white-abstract-background-100117990.jpg")
+}
+.myname{
+    font-family: 'Space Mono', monospace;
+    font-size: 80px;
+    position: relative;
+    top: 125px;
+    left: 30px;
+    color: #2D1611;
+    font-weight: bolder;
+}
+.profession{
+    font-family: 'Space Mono', monospace;
+    padding: 50px;
+    color: #66443B;
+}
+.bio{
+    font-family: 'Space Mono', monospace;
+    padding: 50px;
+    color: #4F2E25;
+}
+.university{
+    font-family: 'Space Mono', monospace;
+    padding: 50px;
+    color: #66443B;
+}
+.why{
+    font-family: 'Space Mono', monospace;
+    padding: 50px;
+    color: #66443B;
+}
+footer{
+    font-family: 'Space Mono', monospace;
+    background-color: #2D1611;
+    height: 250px;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.background-image{
+    object-fit: cover;
+    width: 50%;
+    height: 1500px;
+    position: fixed;
+    top: 0px;
+    z-index: -1;
+}
+.image2{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    padding: 20px;
+}
+.globe{
+    width: 200px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+    top: 160px;
+    left: 60px;
+    position: relative;
+    color: #2D1611;
+}
+.bgcontainer{
+    margin: 0px;
+    padding: 0px;
+}
+.bgimage2{
+    width: 100%;
+    height: 300px;
+    position: relative;
+    top: 0px;
+    z-index: -1;
+    object-fit: cover;
+    padding: 20px;
+}
+.bgcontainer-2{
+    margin: 0px;
+    padding: 0px;
+}
+.mit{
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    padding: 50px;
+    color: #2D1611;
+}
+.imageofmit{
+    object-fit: cover;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+}
+.software-engineering{
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    padding: 50px;
+    color: #2D1611;
+}
+.imagefiller{
+    object-fit: cover;
+    padding: 30px;
+    position: relative;
+    width: 100%;
+}
+.recipe{
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    padding: 50px;
+    color: #2D1611;
+}
+hr {
+    border: none;
+    height: 2px;
+    color: #2D1611;
+    background-color: #2D1611; 
+  }
+.ruth{
+    object-fit: cover;
+    padding: 30px;
+    position: relative;
+    width: 400px;
+    height: 500px;
+}
+.bakingpic{
+    padding: 50px;
+}
+.cookieimg{
+    padding: 40px;
+    width: 100%;
+    height: 600px;
+}
+.big-header{
+    font-size: 65px;
+    padding: 40px;
+    position: relative;
+    top: 60px;
+}
+.mit-logo{
+    width: 384px;
+    height: 216px;
+}
+.me{
+    object-fit: cover;
+    padding: 30px;
+    position: relative;
+    width: 350px;
+    height: 350px;
+    left: 140px;
+    bottom: 30px;
+    padding: 0px;
+    background-color: #ffefdf;
+}
+.sources{
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    padding: 50px;
+    color: #2D1611;
+}
